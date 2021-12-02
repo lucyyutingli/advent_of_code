@@ -1,4 +1,4 @@
 # Advent of Code Answers
-Answers for the annual Advent of Code (starting in 2020). Some days may be missing as I switched between a few computers to complete this! All were completed in Python. :)
+Answers for the annual Advent of Code which I started participating in 2020! I prefer this very much over leetcode :))
 
 Happy Holidays - Lucy Li
